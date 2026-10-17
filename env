@@ -1,0 +1,6 @@
+GEMINI_API_KEY="AQ.Ab8RN6J5FL-SqF_-lEwMJYn53Tk51ngmQIsDPIOmqNVTtZJl9A"
+
+# APP_URL: The URL where this applet is hosted.
+# AI Studio automatically injects this at runtime with the Cloud Run service URL.
+# Used for self-referential links, OAuth callbacks, and API endpoints.
+APP_URL="https://homestay-chiscstay-ni12p1x60-hyan-ily1.vercel.app/"
